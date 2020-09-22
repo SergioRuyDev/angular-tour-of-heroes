@@ -12,6 +12,12 @@ h2, h3 {
   font-weight: lighter;
 }
 
+/* dark mode
+body {
+  background: #000;
+  filter: invert(1) hue-rotate(210deg);
+}
+*/
 body {
   margin: 2em;
 }
